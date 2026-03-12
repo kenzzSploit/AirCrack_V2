@@ -41,16 +41,9 @@ cd AirCrack_V2
 Run tools:
 
 ```bash
-python main.py
+ruby aircrackv2.rb
 ```
 
-atau
-
-```bash
-python cli/main.py
-```
-
----
 
 ## ⚠ Disclaimer
 
@@ -69,3 +62,4 @@ https://github.com/kenzzSploit
 ---
 
 ⭐ Jika project ini membantu, jangan lupa kasih **star** di repository!
+
